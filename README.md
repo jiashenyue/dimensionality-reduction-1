@@ -2,7 +2,7 @@
 
 Shenyue Jia
 
-Core assignment #1 for Feature Engineering
+Core assignment #1 for Dimensionality Reduction
 
 **Tasks**
 
